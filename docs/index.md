@@ -1,17 +1,38 @@
-# Welcome to MkDocs
+# Eco's personal Homepage
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+> Writer: Eco
+>
+> Email: eckowyk@gmail.com
+>
+> QQ: 2990456961
 
-## Commands
+王奕凯，遥感信息工程学院 2022 级本科生，空间信息与数字技术专业。方向排名第一，曾获国家奖学金。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 目的和内容
 
-## Project layout
+该网站用于记录本人学习内容和相关工作，并包含大学四年课程作业和总结材料分享。主要内容为平时学习笔记和心得，以及空信方向主要课程作业和经验分享。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+> [!NOTE]
+> 针对空间信息与数字技术专业
+>
+> 主要研究领域为 CV、SLAM 和 ML、DL 相关
+
+# 涉及知识内容
+
+目前主要学习方向如下：
+
+1. SLAM
+   - 教材使用《视觉 SLAM 十四讲》；
+   - 需要了解相机标定、旋转矩阵、四元数、李群李代数相关数学知识；
+   - 熟练掌握 OpenCV，并了解 ROS 相关知识；
+   - 推荐课程：Fall 2022 CS 543/ECE 549: Computer Vision；
+2. ML
+   - 可学习周志华西瓜书，了解基本理论知识；
+   - 同时练习代码实现；
+3. DL
+   - 李沐《动手学深度学习》课程；
+   - 太过复杂,不甚了解；
+   - 强化学习；
+   - Transformer；
+
+计划未来主要对以上几方面进行深入学习，同时对 SpringBoot、Vue 等项目技术进行打磨。
